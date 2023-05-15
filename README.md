@@ -1,13 +1,25 @@
 # Normalizador de Projetos
-Para usar o Normalizador de Projetos, basta você selecionar a organização para qual você irá produzir o seu documento na aba de Documentos e baixar um arquivo, ele ira conter um documento genérico com todas as normalizações ja incluídas. Depois, é so trocar as informações genéricas para as do seu projeto.
+O nosso site tem duas principais funções: os documentos padronizados, e o referenciador.
 
-O Referenciador, é outra ferramenta de normalização mas esta é mais complicada.
+Clicando pela aba de navegação você consigui-ra mudar a página atual.
 
-Primeiro deve selecionar a organização para qual deseja criar a referencia, isso abrira o campo de tipo de referencia que deseja fazer. Elas sao auto explicativas dependendo de onde você pegou a referencia.
+A página Index (a principal) é a "Início" onde você pode ver uma saudação ao usuário e uma lista de documentos recém atualizados.
 
-Selecionado o tipo de referencia você verá o formulário se abrir. Insira todas as informações necessárias, e vera na caixa de output a referencia se formar.
+Clicando na página "Sobre" você verá o nosso nome – os desenvolvedors – e uma apresentação do nosso site e a razão de termos o crtuiado.
 
-Pronto! Basta copiar e colar o texto no seu projeto.
+Na página "Como usar" existe as instruções de como usar o as ferramentas das abas "Documentos" e "Referenciador".
+
+A parte principal do nosso projeto está nessas duas abas.
+
+Na aba de "Documentos" se encontra uma lista de documentos pré produzidos e guias normativas para download dos usuários. Esse download pode ser efetuado por clicar no símbolo de download. 
+
+Na aba do "Referenciador" existe um seletor 'drop down' que pode ser clicado para escolher entre uma série de modelos de referência usado por uma instituição selecionada. No momento só a instituição do Senac existe.
+
+Os campos de texto abaixo desse seletor devem ser preenchidos da maneira mais completa possível. Alguns livros por exemplo podem não conter um subtítulo, o que impossibilita preencher o campo de subtítulo do referenciador. Isso é de se esperar, mas onde existir a informação, é necessário preenchê-la para ter uma referência correta.
+
+Perceba que enquanto você preenche os campos de texto, o campo a esquerda está sendo preenchido também. Este é a sua referência, que quando completa, você pode compila-la para incluir no seu projeto. Podendo ser feito por selecionar o texto e copiá-lo desta forma, ou por clicar no botão copiar, abaixo do campo.
+
+Esta são todas as funções planejadas para o site. O trabalho de completar os documentos e modelos de referência do Senac e de outras instituições é uma considerada longa, mas essa possibilidade torna esta ferramenta muito útil no mundo acadêmico.
 
 
 ## Nome dos integrantes | Grupo 37
